@@ -22,7 +22,14 @@ The data set used in this project was gotten from Kaggle.com
 
 #### Data Cleaning:
 ---
-Using Power query on Excel, we filtered out unwanted data, removed some unnecessary columns, errors, we removed some lines that have empty spaces. We splitter columns and removed Duplicates.
+Using Power query on Excel, we filtered out unwanted data, removed some unnecessary columns, errors, we removed some lines that have empty spaces. We splitted columns and removed Duplicates.
+
+
+### Table Used:
+
+
+[Movie data cleaned.xlsx](https://github.com/user-attachments/files/17909341/Movie.data.cleaned.xlsx)
+
 
 #### Exploratory Data Analysis: 
 ---
