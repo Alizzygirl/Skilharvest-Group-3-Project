@@ -71,7 +71,6 @@ Hence, a story about the 10 most popular movies, their countries of production, 
 
 #### Data Analysis; 
 ---
- let
  
     #Source = Excel.Workbook(File.Contents("C:\Users\PObekpe\Downloads\Financial Modelling\Power BI\Group Project.xlsx"), null, true),
     #Sheet1_Sheet = Source{[Item="Sheet1",Kind="Sheet"]}[Data],
