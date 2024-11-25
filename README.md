@@ -1,6 +1,9 @@
 # Skilharvest-Group-3-Project
+---
 ## My first group Project with Skilharvest Academy
+---
 ### Project Overview : 
+---
 #### "The Evolution of Action Movies: From Explosions to Animation"
 
 In the early 1980s, action movies were all the rage. Films like "Die Hard" (1988) and "Terminator" (1984) dominated the box office, with their high-octane action sequences, memorable one-liners, and charismatic leads. These films were made on relatively modest budgets, with "Die Hard" costing around $28 million and "Terminator" costing around $6.4 million.
@@ -8,24 +11,29 @@ As the decades passed, the action movie genre continued to evolve. The 1990s saw
 This Project aims to showcase the trends in production of movies, budget and Revenue, and the popularity of directors of the different movies alike. To uncover the patterns and revenue gotten within the data and the growth of the impact of the movies and the directors alike and the popularity globally in order to provide valuable insight for movie lovers like myself and industry experts. Sit back and journey with me as we explore these data.
 
 #### Data Sources: 
+---
 The data set used in this project was gotten from Kaggle.com
 
-#### Tools Used: 
+#### Tools Used:
+---
 - Microsoft Excel:  which can be online downloaded
 - Google worksheets
 - Power BI: To give reports in form of Visuals.
 
 #### Data Cleaning:
+---
 Using Power query on Excel, we filtered out unwanted data, removed some unnecessary columns, errors, we removed some lines that have empty spaces. We splitter columns and removed Duplicates.
 
 #### Exploratory Data Analysis: 
+---
 we plotted Bar charts, pie Charts, calculated to summation, total sum of revenue, average revenue across the genres and director counts and the top 10 directors on the data by revenue.
 
 #### Visualizations Tools: 
+---
 Power BI, a  Business analytic Service/tool by Microsoft. 
 
 #### Visualizations:
-
+---
 ![Movie Visualization 1](https://github.com/user-attachments/assets/c3474c82-4865-4162-bc29-13c7bcd35ca7)
 <img width="551" alt="Movie Visualization 2" src="https://github.com/user-attachments/assets/e5d38f54-ccfc-4351-b79b-848c56314493">
 ![Movie Visualization 3](https://github.com/user-attachments/assets/addc366b-176d-4c72-bceb-696ce0815ebc)
@@ -33,7 +41,7 @@ Power BI, a  Business analytic Service/tool by Microsoft.
 ![Movie Visualization 5](https://github.com/user-attachments/assets/86c1ca02-2587-418e-b55c-0e079237398c)
 
 #### Story:
-
+---
 This data-set was analysed for more enthusiast to focus on genre trends, and Revenue Analysis of movies produced in the Europe and United States of America. To analyse the budgets spent and the revenues gotten from different genre of the movies around the year, 2016 to 2019. So before we dive into the Analysis,  we cleaned the data, removing the unwanted reports and taking out empty spaces alike. The rise of animations and action movies has led to increasing budgets and revenues. 
 
 Movie trends has changed considerably from the 90s, and even In the 2000s, the action movie landscape shifted. The success of CG I-heavy films like "The Matrix" (1999) and "Spider-Man" (2002) paved the way for more visually stunning and fantastical action movies. These films had significantly higher budgets, with "The Matrix" costing around $63 million and "Spider-Man" costing around $139 million.
@@ -62,6 +70,7 @@ Also, most of these movies were created in technologically advanced countries li
 Hence, a story about the 10 most popular movies, their countries of production, and their directors:
 
 #### Data Analysis; 
+---
  let
  
     #Source = Excel.Workbook(File.Contents("C:\Users\PObekpe\Downloads\Financial Modelling\Power BI\Group Project.xlsx"), null, true),
@@ -78,6 +87,7 @@ Hence, a story about the 10 most popular movies, their countries of production, 
     #"Removed Columns1"
     
 #### Insight
+---
  Come with me as we explore the 10 most popular movies, their countries of production, and the visionary directors who brought them to life.
 1. Avengers: Endgame (USA, 2019) - Directed by Anthony and Joe Russo. Revenue grossing a total of $2.79 billion worldwide.
 2. Avatar (USA, 2009) - Directed by James Cameron. This ground-breaking film grossed over $2.78 billion worldwide.
