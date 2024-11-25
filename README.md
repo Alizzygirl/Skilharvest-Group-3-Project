@@ -24,6 +24,14 @@ we plotted Bar charts, pie Charts, calculated to summation, total sum of revenue
 #### Visualizations Tools: 
 Power BI, a  Business analytic Service/tool by Microsoft. 
 
+#### Visualizations:
+
+![Movie Visualization 1](https://github.com/user-attachments/assets/c3474c82-4865-4162-bc29-13c7bcd35ca7)
+<img width="551" alt="Movie Visualization 2" src="https://github.com/user-attachments/assets/e5d38f54-ccfc-4351-b79b-848c56314493">
+![Movie Visualization 3](https://github.com/user-attachments/assets/addc366b-176d-4c72-bceb-696ce0815ebc)
+![Movie Visualization 4](https://github.com/user-attachments/assets/014a6241-a80d-4f5f-8f67-7f9bd9e49c07)
+![Movie Visualization 5](https://github.com/user-attachments/assets/86c1ca02-2587-418e-b55c-0e079237398c)
+
 #### Story:
 
 This data-set was analysed for more enthusiast to focus on genre trends, and Revenue Analysis of movies produced in the Europe and United States of America. To analyse the budgets spent and the revenues gotten from different genre of the movies around the year, 2016 to 2019. So before we dive into the Analysis,  we cleaned the data, removing the unwanted reports and taking out empty spaces alike. The rise of animations and action movies has led to increasing budgets and revenues. 
