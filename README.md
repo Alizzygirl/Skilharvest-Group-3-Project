@@ -1,6 +1,6 @@
 # Skilharvest-Group-3-Project
 ---
-## My first group Project with Skilharvest Academy
+## My First Group Project with Skilharvest Academy
 ---
 ### Project Overview : 
 ---
@@ -33,7 +33,7 @@ Using Power query on Excel, we filtered out unwanted data, removed some unnecess
 
 #### Exploratory Data Analysis: 
 ---
-we plotted Bar charts, pie Charts, calculated to summation, total sum of revenue, average revenue across the genres and director counts and the top 10 directors on the data by revenue.
+We plotted Bar charts, pie Charts, calculated to summation, total sum of revenue, average revenue across the genres and director counts and the top 10 directors on the data by revenue.
 
 #### Visualizations Tools: 
 ---
